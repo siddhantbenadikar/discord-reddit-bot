@@ -1,0 +1,19 @@
+{
+  "name": "reddit-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for reddit pc sales notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddhant Benadikar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.0"
+  }
+}
